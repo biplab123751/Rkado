@@ -1,0 +1,53 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+.form-container {
+  width:500px;
+  margin-left:200px;
+  margin-top:150px;
+  padding:10px;
+}
+
+.register-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+
+
+.form-field {
+  margin: 10px 0 10px 0;
+  padding: 10px;
+  font-size: 14px;
+  font-family: "Roboto",Arial;
+}
+
+
+
+input {
+  background: #f2f2f2;
+}
+
+
+
+.btn {
+  background:blue;
+  color: white;
+  cursor:pointer;
+  margin: 10px 0 10px 0;
+  padding: 10px;
+  font-size: 14px;
+  font-family: "Roboto",Arial;
+}
+.btn1 {
+  background:#3D3635;
+  color: white;
+  cursor:pointer;
+  margin: 10px 0 10px 0;
+  padding: 10px;
+  font-size: 14px;
+  font-family: "Roboto",Arial;
+}
+.text{
+  color:blue;
+}
+
